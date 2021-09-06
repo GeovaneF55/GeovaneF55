@@ -1,5 +1,14 @@
 ![Alt Text](https://media.giphy.com/media/hUEnpmgX9LyzZfK2xV/giphy.gif)
 
+<div>
+    <a href = "mailto:geovanefss@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/geovane-fonseca-51406110b/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+</div>
+
 **Since you're here, i'll talk a little about me.**
 
 ## About Me
@@ -15,7 +24,12 @@ STUDIES
 - I'm graduated in Computer Science at PUC Minas (Pontifícia Universidade Católica de Minas Gerais)
 - I'm a computer technician by CEFET MG (Centro Federal de Educação Tecnológica de Minas Gerais)
 
-# My Top Languages
+## Github Stats
+
+![Geovane's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanef55&show_icons=true&hide=contribs&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanef55&layout=compact&theme=tokyonight)](https://github.com/geovanef55/github-readme-stats)
+
+# My Top Tools and Languages
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -46,33 +60,3 @@ STUDIES
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
 <br>
-
-# Contact Me
-<div>
-    <a href = "mailto:geovanefss@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/geovane-fonseca-51406110b/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-    </a>
-</div>
-
-## Github Stats
-
-![Geovane's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanef55&show_icons=true&hide=contribs&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanef55&layout=compact&theme=tokyonight)](https://github.com/geovanef55/github-readme-stats)
-
-<!--
-**GeovaneF55/GeovaneF55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
