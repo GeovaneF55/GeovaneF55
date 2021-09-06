@@ -13,6 +13,8 @@
 
 **Since you're here, i'll talk a little about me.**
 
+<br/>
+
 ## About Me
 
 My name is Geovane Fonseca de Sousa Santos and at a time I have 26 years old and live in Belo Horizonte, Brazil
@@ -26,6 +28,8 @@ JOBS
 STUDIES
 - I'm graduated in Computer Science at PUC Minas (Pontifícia Universidade Católica de Minas Gerais)
 - I'm a computer technician by CEFET MG (Centro Federal de Educação Tecnológica de Minas Gerais)
+
+<br/>
 
 ## Github Stats
 
