@@ -33,8 +33,11 @@ STUDIES
 
 ## Github Stats
 
-![Geovane's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanef55&show_icons=true&hide=contribs&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanef55&layout=compact&theme=tokyonight)](https://github.com/geovanef55/github-readme-stats)
+<div>
+  <a href="https://github.com/geovanef55">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanef55&show_icons=true&hide=contribs&count_private=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanef55&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 <br/>
 
