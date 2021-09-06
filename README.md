@@ -1,7 +1,5 @@
 ![Alt Text](https://media.giphy.com/media/hUEnpmgX9LyzZfK2xV/giphy.gif)
 
-<br/>
-
 <div>
     <a href = "mailto:geovanefss@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -33,6 +31,8 @@ STUDIES
 
 ![Geovane's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanef55&show_icons=true&hide=contribs&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanef55&layout=compact&theme=tokyonight)](https://github.com/geovanef55/github-readme-stats)
+
+<br/>
 
 ## My Top Tools and Languages
 
