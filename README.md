@@ -12,11 +12,8 @@
     </a>
 </div>
 
-<br/>
 
 **Since you're here, i'll talk a little about me.**
-
-<br/>
 
 ## About Me
 
