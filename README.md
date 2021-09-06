@@ -1,5 +1,7 @@
 ![Alt Text](https://media.giphy.com/media/hUEnpmgX9LyzZfK2xV/giphy.gif)
 
+<br/>
+
 <div>
     <a href = "mailto:geovanefss@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -9,9 +11,12 @@
     </a>
 </div>
 
+<br/>
+
 **Since you're here, i'll talk a little about me.**
 
 ## About Me
+
 My name is Geovane Fonseca de Sousa Santos and at a time I have 26 years old and live in Belo Horizonte, Brazil
 
 JOBS
@@ -29,7 +34,8 @@ STUDIES
 ![Geovane's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanef55&show_icons=true&hide=contribs&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanef55&layout=compact&theme=tokyonight)](https://github.com/geovanef55/github-readme-stats)
 
-# My Top Tools and Languages
+## My Top Tools and Languages
+
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
