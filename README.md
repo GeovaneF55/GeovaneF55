@@ -58,14 +58,9 @@ STUDIES
 </div>
 
 ## Github Stats
-<div style="display: inline_block">
-    <div>
-        ![Geovane's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanef55&show_icons=true&hide=contribs&theme=tokyonight)
-    </div>
-    <div>
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanef55&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-    </div>
-</div>
+
+![Geovane's GitHub stats](https://github-readme-stats.vercel.app/api?username=geovanef55&show_icons=true&hide=contribs&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geovanef55&layout=compact&theme=tokyonight)](https://github.com/geovanef55/github-readme-stats)
 
 <!--
 **GeovaneF55/GeovaneF55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
