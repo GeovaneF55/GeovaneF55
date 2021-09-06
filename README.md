@@ -17,7 +17,7 @@
 
 ## About Me
 
-My name is Geovane Fonseca de Sousa Santos and at a time I have 26 years old and live in Belo Horizonte, Brazil
+My name is Geovane Fonseca and at a time I have 26 years old and live in Belo Horizonte, Brazil
 
 JOBS
 - I’m currently working with laravel and React Developer at Pentagrama since 2019
