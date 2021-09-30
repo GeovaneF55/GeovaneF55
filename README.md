@@ -21,7 +21,7 @@ My name is Geovane Fonseca and at a time I have 26 years old and live in Belo Ho
 
 JOBS
 - I’m currently working with Laravel and React Developer at Pentagrama since 2019
-- I worked at the Codificar Softwares with laravel Developer in 2017 to 2018
+- I worked at the Codificar Softwares with Laravel Developer in 2017 to 2018
 - I worked at the PUC Minas with student monitor in early 2017 to mid 2017
 - I worked at the Teknisa Softwares with PHP Developer in 2014 to 2016
 
