@@ -19,29 +19,31 @@
 
 My name is Geovane Fonseca and at a time I have 26 years old and live in Belo Horizonte, Brazil
 
-JOBS
-- I’m currently working with Laravel and React Developer at Pentagrama since 2019
-- I worked at the Codificar Softwares with Laravel Developer in 2017 to 2018
-- I worked at the PUC Minas with student monitor in early 2017 to mid 2017
-- I worked at the Teknisa Softwares with PHP Developer in 2014 to 2016
+<h3>👨🏻‍💻 Jobs</h3>    
 
-STUDIES
-- I'm graduated in Computer Science at PUC Minas (Pontifícia Universidade Católica de Minas Gerais)
-- I'm a computer technician by CEFET MG (Centro Federal de Educação Tecnológica de Minas Gerais)
+<ul>
+    <li>I’m currently working with Laravel and React Developer at Pentagrama since 2019</li>
+    <li>I worked at the Codificar Softwares with Laravel Developer in 2017 to 2018</li>
+    <li>I worked at the PUC Minas with student monitor in early 2017 to mid 2017</li>
+    <li>I worked at the Teknisa Softwares with PHP Developer in 2014 to 2016</li>
+</ul>
+
+<h3>👨🏻‍🎓 Studies</h3>    
+<ul>
+    <li>I'm graduated in Computer Science at PUC Minas (Pontifícia Universidade Católica de Minas Gerais)</li>
+    <li>I'm a computer technician by CEFET MG (Centro Federal de Educação Tecnológica de Minas Gerais)</li>
+</ul>
 
 <br/>
 
-<details>
-    <summary>Commits</summary>
-    ![Snake Animation](https://raw.githubusercontent.com/GeovaneF55/GeovaneF55/2e72427ba6219d585d96f212ed8654b8f3b81389/github-contribution-grid-snake.svg)
-</details>
-    
-<details>
-    <summary>Github Stats</summary>
-    <a href="https://github.com/geovanef55">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanef55&show_icons=true&hide=contribs&count_private=true&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanef55&layout=compact&langs_count=7&theme=tokyonight"/>
-</details>
+## Commits
+![Snake Animation](https://raw.githubusercontent.com/GeovaneF55/GeovaneF55/2e72427ba6219d585d96f212ed8654b8f3b81389/github-contribution-grid-snake.svg)
+
+## Github Stats
+
+<a href="https://github.com/geovanef55">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanef55&show_icons=true&hide=contribs&count_private=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanef55&layout=compact&langs_count=7&theme=tokyonight"/>
 
 <br/>
     
