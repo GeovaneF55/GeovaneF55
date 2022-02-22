@@ -1,4 +1,4 @@
-![Obi Wan Hello There](https://media.giphy.com/media/hUEnpmgX9LyzZfK2xV/giphy.gif)
+<img src="https://media.giphy.com/media/hUEnpmgX9LyzZfK2xV/giphy.gif" alt="Obi Wan - Hello There" height="150" width="330"/>
 
 <div>
     <a href = "mailto:geovanefss@gmail.com">
