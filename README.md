@@ -1,4 +1,4 @@
-![Alt Text](https://media.giphy.com/media/hUEnpmgX9LyzZfK2xV/giphy.gif)
+![Obi Wan Hello There](https://media.giphy.com/media/hUEnpmgX9LyzZfK2xV/giphy.gif)
 
 <div>
     <a href = "mailto:geovanefss@gmail.com">
@@ -72,3 +72,7 @@ STUDIES
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
     </div>
 <br>
+    
+## Commits
+    
+![Snake Animation](https://raw.githubusercontent.com/GeovaneF55/GeovaneF55/2e72427ba6219d585d96f212ed8654b8f3b81389/github-contribution-grid-snake.svg)
