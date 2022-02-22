@@ -1,6 +1,7 @@
-<img src="https://media.giphy.com/media/hUEnpmgX9LyzZfK2xV/giphy.gif" alt="Obi Wan - Hello There" height="150" width="330"/>
-
-<div>
+<div align="center">
+    <img src="https://media.giphy.com/media/hUEnpmgX9LyzZfK2xV/giphy.gif" alt="Obi Wan - Hello There" height="150" width="330"/>
+</div>
+<div align="center">
     <a href = "mailto:geovanefss@gmail.com">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
@@ -12,8 +13,19 @@
     </a>
 </div>
 
+<br />
 
-**Since you're here, i'll talk a little about me.**
+<p align="center">
+
+  <h3 align="center">Geovane Fonseca de Sousa Santos</h3>
+
+  <p align="center">
+    GeovaneF55
+    <br />
+    Backend Developer
+    <br />
+  </p>
+</p>
 
 ## About Me
 
