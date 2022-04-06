@@ -22,12 +22,11 @@
   <p align="center">
     <b>GeovaneF55</b>
     <br />
-    Fullstack Developer
-    <br />
+    Senior Consultant
+    <br/>
     Backend Developer
     <br />
-    Senior Consultant
-    <br />
+    Fullstack Developer
   </p>
 </p>
 
