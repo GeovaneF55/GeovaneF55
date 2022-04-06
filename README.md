@@ -20,9 +20,13 @@
   <h3 align="center">Geovane Fonseca de Sousa Santos</h3>
 
   <p align="center">
-    GeovaneF55
+    <b>GeovaneF55</b>
     <br />
-    Fullstack Developer/Backend Developer/Senior Consultant
+    Fullstack Developer
+    <br />
+    Backend Developer
+    <br />
+    Senior Consultant
     <br />
   </p>
 </p>
