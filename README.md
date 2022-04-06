@@ -22,7 +22,7 @@
   <p align="center">
     GeovaneF55
     <br />
-    Backend Developer
+    Fullstack Developer/Backend Developer/Senior Consultant
     <br />
   </p>
 </p>
