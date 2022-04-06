@@ -29,7 +29,10 @@
 
 ## About Me
 
-My name is Geovane Fonseca and at a time I have 26 years old and live in Belo Horizonte, Brazil
+Graduated in Computer Science at PUC-Minas in 2020 and Technician in Informatics at CEFET-MG in
+2013. I am passionate about science and have the objective of growing professionally, besides gaining more
+knowledge in the area of computing and personal fulfillment. I'm from Belo Horizonte, Brazil but curently
+live in Lisboa, Portugal.
 
 <h3>👨🏻‍💻 Jobs</h3>    
 
