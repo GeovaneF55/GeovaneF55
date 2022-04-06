@@ -41,7 +41,8 @@ live in Lisboa, Portugal.
 <h3>👨🏻‍💻 Jobs</h3>    
 
 <ul>
-    <li>I’m currently working with Laravel and React Developer at Pentagrama since 2019</li>
+    <li>I’m currently working with PHP and NodeJS at Aubay Portugal since 2022</li>
+    <li>I worked at Pentagrama Consultoria e Sistemas LTDA with Laravel and React Developer in 2019 to 2022</li>
     <li>I worked at the Codificar Softwares with Laravel Developer in 2017 to 2018</li>
     <li>I worked at the PUC Minas with student monitor in early 2017 to mid 2017</li>
     <li>I worked at the Teknisa Softwares with PHP Developer in 2014 to 2016</li>
@@ -49,8 +50,8 @@ live in Lisboa, Portugal.
 
 <h3>👨🏻‍🎓 Studies</h3>    
 <ul>
-    <li>I'm graduated in Computer Science at PUC Minas (Pontifícia Universidade Católica de Minas Gerais)</li>
-    <li>I'm a computer technician by CEFET MG (Centro Federal de Educação Tecnológica de Minas Gerais)</li>
+    <li>I'm graduated in Computer Science in 2020 at PUC Minas (Pontifícia Universidade Católica de Minas Gerais)</li>
+    <li>I'm a computer technician by CEFET MG since 2013 (Centro Federal de Educação Tecnológica de Minas Gerais)</li>
 </ul>
 
 <br/>
