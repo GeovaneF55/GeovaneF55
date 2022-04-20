@@ -47,8 +47,8 @@ live in Lisboa, Portugal.
 
 <h3>👨🏻‍🎓 Studies</h3>    
 <ul>
-    <li>I'm graduated in Computer Science by PUC-Minas (Pontifícia Universidade Católica de Minas Gerais) since 2020</li>
-    <li>I'm a computer technician by CEFET-MG (Centro Federal de Educação Tecnológica de Minas Gerais) since 2013</li>
+    <li>I'm Bachelor in Computer Science since 2020 by PUC-Minas (Pontifícia Universidade Católica de Minas Gerais)</li>
+    <li>I'm Computer Technician since 2013 by CEFET-MG (Centro Federal de Educação Tecnológica de Minas Gerais)</li>
 </ul>
 
 <br/>
