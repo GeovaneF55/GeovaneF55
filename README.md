@@ -30,8 +30,8 @@
 
 ## About Me
 
-Graduated in Computer Science at PUC-Minas in 2020 and Technician in Informatics at CEFET-MG in
-2013. I am passionate about science and have the objective of growing professionally, besides gaining more
+Bachelor's Degree in Computer Science at PUC-Minas in 2020 and Computer Technician at CEFET-MG in 2013.
+I am passionate about science and have the objective of growing professionally, besides gaining more
 knowledge in the area of computing and personal fulfillment. I'm from Belo Horizonte, Brazil but curently
 live in Lisboa, Portugal.
 
