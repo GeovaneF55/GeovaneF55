@@ -56,8 +56,10 @@ live in Lisboa, Portugal.
 
 <br/>
 
+<!--
 ## Commits
 ![Snake Animation](https://github.com/GeovaneF55/GeovaneF55/blob/output/github-contribution-grid-snake.svg)
+-->
 
 ## Github Stats
 
