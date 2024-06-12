@@ -41,11 +41,11 @@ live in Lisboa, Portugal.
 <h3>👨🏻‍💻 Jobs</h3>    
 
 <ul>
-    <li>I’m currently working with PHP and NodeJS at Aubay Portugal since april 2022</li>
-    <li>I worked at Pentagrama Consultoria e Sistemas LTDA with Laravel and React Developer in 2019 to 2022</li>
-    <li>I worked at the Codificar Softwares with Laravel Developer in 2017 to 2018</li>
-    <li>I worked at the PUC Minas with student monitor in early 2017 to mid 2017</li>
-    <li>I worked at the Teknisa Softwares with PHP Developer in 2014 to 2016</li>
+    <li>I’m currently working as a Laravel, Wordpress and Django Developer at Aubay Portugal' client SIBS since april 2022</li>
+    <li>I worked at Pentagrama Consultoria e Sistemas LTDA with Laravel, React Developer and NodeJS from 2019 to 2022</li>
+    <li>I worked at the Codificar Softwares as a Laravel Developer from 2017 to 2018</li>
+    <li>I worked at the PUC Minas as a student's monitor from early 2017 to mid 2017</li>
+    <li>I worked at the Teknisa Softwares as a PHP Developer from 2014 to 2016</li>
 </ul>
 
 <h3>👨🏻‍🎓 Studies</h3>    
