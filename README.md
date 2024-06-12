@@ -3,16 +3,16 @@
 </div>
 <div align="center">
     <a href = "mailto:geovanefss@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23DB4437?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-%23DB4437?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/geovane-fonseca-51406110b/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://instagram.com/geovanefonsecass" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://www.facebook.com/geovanefss" target="_blank">
-        <img src="https://img.shields.io/badge/-Facebook-%234267B2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank">
+        <img src="https://img.shields.io/badge/-Facebook-%234267B2?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
 </div>
 
