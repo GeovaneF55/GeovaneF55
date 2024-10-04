@@ -73,19 +73,19 @@ I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Te
 </div>
 <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black">
-    <img align="center" src="https://img.shields.io/badge/-jQuery-%230769AD?style=flat&logo=jquery&logoColor=white)">
-    <img align="center" src="https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black">
-    <img align="center" src="https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/-Django-%23092E20?style=flat&logo=django&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/jQuery-%230769AD?style=flat&logo=jquery&logoColor=white)">
+    <img align="center" src="https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black">
+    <img align="center" src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django&logoColor=white">
 </div>
 <div style="display: inline_block">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">
+    <img align="center" src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/C++-%2300599C?style=flat&logo=cplusplus&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white">
 </div>
 <div style="display: inline_block">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
