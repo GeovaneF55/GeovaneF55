@@ -27,7 +27,7 @@
   </p>
 </div>
 
-## About Me
+## 🧔🏻 About Me
 
 I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Technician** from CEFET-MG (2013). I’m passionate about science and continuously aim to grow professionally while expanding my knowledge in computing. Originally from **Belo Horizonte, Brazil**, I now reside in **Lisbon, Portugal**.
 
@@ -47,7 +47,7 @@ I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Te
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
-## Commits
+## 🐍 Commits
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GeovaneF55/GeovaneF55/blob/output/github-snake-dark.svg" />
