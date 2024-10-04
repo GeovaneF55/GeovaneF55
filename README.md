@@ -3,75 +3,65 @@
 </div>
 <div align="center">
     <a href = "mailto:geovanefss@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23DB4437?style=for-the-badge&logo=gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/-Gmail-%23DB4437?style=badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/geovane-fonseca-51406110b/">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://instagram.com/geovanefonsecass">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://www.facebook.com/geovanefss">
-        <img src="https://img.shields.io/badge/-Facebook-%234267B2?style=for-the-badge&logo=facebook&logoColor=white">
+        <img src="https://img.shields.io/badge/-Facebook-%234267B2?style=badge&logo=facebook&logoColor=white">
     </a>
 </div>
 
-<br />
-
-<p align="center">
-
+<div align="center">
   <h3 align="center">Geovane Fonseca de Sousa Santos</h3>
-
   <p align="center">
-    <b>GeovaneF55</b>
-    <br />
-    Senior Consultant / Fullstack Developer
+    <b><a href="https://github.com/GeovaneF55">@GeovaneF55</a></b>
     <br/>
-    Backend Developer / Data Scientist
+    Senior Consultant | Fullstack Developer
+    <br/>
+    Backend Developer | Data Scientist
   </p>
-</p>
+</div>
 
 ## About Me
 
-Bachelor's Degree in Computer Science at PUC-Minas in 2020 and Computer Technician at CEFET-MG in 2013.
-I am passionate about science and have the objective of growing professionally, besides gaining more
-knowledge in the area of computing and personal fulfillment. I'm from Belo Horizonte, Brazil but curently
-live in Lisboa, Portugal.
+I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Technician** from CEFET-MG (2013). I’m passionate about science and continuously aim to grow professionally while expanding my knowledge in computing. Originally from **Belo Horizonte, Brazil**, I now reside in **Lisbon, Portugal**.
 
-<h3>👨🏻‍💻 Jobs</h3>    
+## 🚀 Current Projects & Work Experience
 
-<ul>
-    <li>I’m currently working as a Laravel, Wordpress and Django Developer at Aubay Portugal' client SIBS since april 2022</li>
-    <li>I worked at Pentagrama Consultoria e Sistemas LTDA with Laravel, React Developer and NodeJS from 2019 to 2022</li>
-    <li>I worked at the Codificar Softwares as a Laravel Developer from 2017 to 2018</li>
-    <li>I worked at the PUC Minas as a student's monitor from early 2017 to mid 2017</li>
-    <li>I worked at the Teknisa Softwares as a PHP Developer from 2014 to 2016</li>
-</ul>
+- **Laravel, WordPress, Prestashop, Magento and Django Developer** at Aubay Portugal (Client: SIBS) since April 2022.
+- **Laravel, React, and NodeJS Developer** at Pentagrama Consultoria e Sistemas LTDA (2019–2022).
+- **Laravel Developer** at Codificar Softwares (2017–2018).
+- **PHP Developer** at Teknisa Softwares (2014–2016).
+- **Student Monitor** at PUC Minas (early 2017–mid 2017).
 
-<h3>👨🏻‍🎓 Studies</h3>    
-<ul>
-    <li>I'm Bachelor in Computer Science since 2020 by PUC-Minas (Pontifícia Universidade Católica de Minas Gerais)</li>
-    <li>I'm Computer Technician since 2013 by CEFET-MG (Centro Federal de Educação Tecnológica de Minas Gerais)</li>
-</ul>
+## 👨🏻‍🎓 Education  
+- **Bachelor's in Computer Science** – PUC-Minas (2020)
+- **Computer Technician** – CEFET-MG (2013)
 
-<br/>
+## 💡 Favorite Quote
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ## Commits
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/GeovaneF55/GeovaneF55/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/GeovaneF55/GeovaneF55/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/GeovaneF55/GeovaneF55/blob/output/github-snake.svg" />
 </picture>
 
-## Github Stats
+## 📊 GitHub Stats
 
 <a href="https://github.com/geovanef55">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovanef55&show_icons=true&hide=contribs&count_private=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanef55&layout=compact&langs_count=10&theme=tokyonight&exclude_repo=pucminas,tcc_twitter&hide=jupyter%20notebook"/>
-
-<br/>
     
-## My Top Tools and Languages
+## 🛠 My Top Tools and Languages
     
 <div style="display: inline_block">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
