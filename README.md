@@ -3,16 +3,16 @@
 </div>
 <div align="center">
     <a href = "mailto:geovanefss@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23DB4437?style=badge&logo=gmail&logoColor=white">
+        <img src="https://img.shields.io/badge/-Gmail-%23DB4437?style=flat&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/geovane-fonseca-51406110b/">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=badge&logo=linkedin&logoColor=white">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white">
     </a>
     <a href="https://instagram.com/geovanefonsecass">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=badge&logo=instagram&logoColor=white">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white">
     </a>
     <a href="https://www.facebook.com/geovanefss">
-        <img src="https://img.shields.io/badge/-Facebook-%234267B2?style=badge&logo=facebook&logoColor=white">
+        <img src="https://img.shields.io/badge/-Facebook-%234267B2?style=flat&logo=facebook&logoColor=white">
     </a>
 </div>
 
@@ -62,7 +62,8 @@ I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Te
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanef55&layout=compact&langs_count=10&theme=tokyonight&exclude_repo=pucminas,tcc_twitter&hide=jupyter%20notebook"/>
     
 ## 🛠 My Top Tools and Languages
-    
+<!-- https://shields.io/ -->
+<!-- https://simpleicons.org/ -->
 <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white">
@@ -88,16 +89,16 @@ I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Te
     <img align="center" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white">
 </div>
 <div style="display: inline_block">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
+    <img align="center" src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/-VS%20Code-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/-Jupyter-%23F37626?style=flat&logo=jupyter&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/-Arduino-%2300979D?style=flat&logo=arduino&logoColor=white">
 </div>
 <div style="display: inline_block">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows11/windows11-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+    <img align="center" src="https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux&logoColor=black">
+    <img align="center" src="https://img.shields.io/badge/-Windows%2011-%230078D6?style=flat&logo=windows11&logoColor=white">
+    <img align="center" hsrc="https://img.shields.io/badge/-Apple-%23000000?style=flat&logo=apple&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/-Apple-%23000000?style=flat&logo=apple&logoColor=white">
 </div>
