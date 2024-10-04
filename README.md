@@ -64,12 +64,12 @@ I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Te
 ## 🛠 My Top Tools and Languages
     
 <div style="display: inline_block">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/magento/magento-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woocommerce&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Magento-F46B33?style=flat&logo=magento&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 </div>
 <div style="display: inline_block">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
