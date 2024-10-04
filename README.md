@@ -72,12 +72,12 @@ I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Te
     <img align="center" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 </div>
 <div style="display: inline_block">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+    <img align="center" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black">
+    <img align="center" src="https://img.shields.io/badge/-jQuery-%230769AD?style=flat&logo=jquery&logoColor=white)">
+    <img align="center" src="https://img.shields.io/badge/-Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/-React-%2361DAFB?style=flat&logo=react&logoColor=black">
+    <img align="center" src="https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/-Django-%23092E20?style=flat&logo=django&logoColor=white">
 </div>
 <div style="display: inline_block">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
