@@ -89,16 +89,16 @@ I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Te
     <img align="center" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white">
 </div>
 <div style="display: inline_block">
-    <img align="center" src="https://img.shields.io/badge/-MySQL-%234479A1?style=flat&logo=mysql&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/-MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/-Docker-%232496ED?style=flat&logo=docker&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/-VS%20Code-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/-Jupyter-%23F37626?style=flat&logo=jupyter&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/-Arduino-%2300979D?style=flat&logo=arduino&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/VS%20Code-%23007ACC?style=flat&logo=visualstudiocode&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Jupyter-%23F37626?style=flat&logo=jupyter&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Arduino-%2300979D?style=flat&logo=arduino&logoColor=white">
 </div>
 <div style="display: inline_block">
-    <img align="center" src="https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux&logoColor=black">
-    <img align="center" src="https://img.shields.io/badge/-Windows%2011-%230078D6?style=flat&logo=windows11&logoColor=white">
-    <img align="center" hsrc="https://img.shields.io/badge/-Apple-%23000000?style=flat&logo=apple&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/-Apple-%23000000?style=flat&logo=apple&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoColor=black">
+    <img align="center" src="https://img.shields.io/badge/Windows%2011-%230078D6?style=flat&logo=windows11&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Apple-%23000000?style=flat&logo=apple&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Swift-%23FA7343?style=flat&logo=swift&logoColor=white">
 </div>
