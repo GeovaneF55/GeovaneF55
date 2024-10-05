@@ -86,9 +86,9 @@ I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Te
     <img align="center" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black">
     <img align="center" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/jQuery-%230769AD?style=flat&logo=jquery&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black">
-    <img align="center" src="https://img.shields.io/badge/Vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=white">
 </div>
 
 ### More Languages and it's Frameworks
