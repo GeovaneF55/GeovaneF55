@@ -78,7 +78,7 @@ I have a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer
 <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Laravel-F55247?style=flat&logo=laravel&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Symfony-%23000000?style=flat&logo=symfony&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/WooCommerce-96588A?style=flat&logo=woo&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/PrestaShop-231F20?style=flat&logo=prestashop&logoColor=white">
