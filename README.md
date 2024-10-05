@@ -14,15 +14,17 @@
     <a href="https://www.linkedin.com/in/geovane-fonseca-51406110b/">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://github.com/GeovaneF55">
-        <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white">
+    <a href="[https://github.com/GeovaneF55](https://x.com/GeovaneF55)">
+        <img src="https://img.shields.io/badge/Twitter-100000?style=flat&logo=x&logoColor=white">
     </a>
 </div>
 
 <div align="center">
   <h3 align="center">Geovane Fonseca de Sousa Santos</h3>
   <p align="center">
-    <b><a href="https://github.com/GeovaneF55">@GeovaneF55</a></b>
+    <b>
+        <img src="https://img.shields.io/badge/GeovaneF55-100000?style=flat&logo=github&logoColor=white">
+    </b>
     <br/>
     Senior Consultant | Fullstack Developer
     <br/>
