@@ -2,21 +2,11 @@
     <img src="https://media.giphy.com/media/hUEnpmgX9LyzZfK2xV/giphy.gif" alt="Obi Wan - Hello There" height="150" width="330"/>
 </div>
 <div align="center">
-    <a href = "mailto:geovanefss@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-%23DB4437?style=flat&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://www.facebook.com/geovanefss">
-        <img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=facebook&logoColor=white">
-    </a>
-    <a href="https://instagram.com/geovanefonsecass">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white">
-    </a>
-    <a href="https://www.linkedin.com/in/geovane-fonseca-51406110b/">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://x.com/GeovaneF55">
-        <img src="https://img.shields.io/badge/Twitter-100000?style=flat&logo=x&logoColor=white">
-    </a>
+    <a href = "mailto:geovanefss@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23DB4437?style=flat&logo=gmail&logoColor=white"></a>
+    <a href="https://www.facebook.com/geovanefss"><img src="https://img.shields.io/badge/Facebook-%234267B2?style=flat&logo=facebook&logoColor=white"></a>
+    <a href="https://instagram.com/geovanefonsecass"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/geovane-fonseca-51406110b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white"></a>
+    <a href="https://x.com/GeovaneF55"><img src="https://img.shields.io/badge/Twitter-100000?style=flat&logo=x&logoColor=white"></a>
 </div>
 
 <div align="center">
