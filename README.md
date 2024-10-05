@@ -10,18 +10,9 @@
 </div>
 
 <div align="center">
-  <h3 align="center">Geovane Fonseca de Sousa Santos</h3>
-  <p align="center">
-    <b>
-        <a href="https://github.com/GeovaneF55">
-            <img src="https://img.shields.io/badge/GeovaneF55-100000?style=flat&logo=github&logoColor=white">
-        </a>
-    </b>
-    <br/>
-    Senior Consultant | Fullstack Developer
-    <br/>
-    Backend Developer | Data Scientist
-  </p>
+    <h3 align="center">Geovane Fonseca de Sousa Santos</h3>
+    <a href="https://github.com/GeovaneF55"><img src="https://img.shields.io/badge/GeovaneF55-100000?style=flat&logo=github&logoColor=white"></a>
+    <p>Senior Consultant | Fullstack Developer <br/> Backend Developer | Data Scientist</p>
 </div>
 
 ## 🧔🏻 About Me
