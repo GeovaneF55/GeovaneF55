@@ -94,13 +94,13 @@ I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Te
 ### More Languages and it's Frameworks
 
 <div style="display: inline_block">
-    <img align="center" src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/C++-%2300599C?style=flat&logo=cplusplus&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Swift-%23FA7343?style=flat&logo=swift&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Java-%23ED8B00?style=flat&logo=openjdk&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/C++-%2300599C?style=flat&logo=cplusplus&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Scratch-4D97FF?style=flat&logo=scratch&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Swift-%23FA7343?style=flat&logo=swift&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white">
 </div>
 
 ### Front-End
