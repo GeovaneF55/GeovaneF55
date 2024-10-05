@@ -25,7 +25,7 @@
     <b>
         <a href="https://github.com/GeovaneF55">
             <img src="https://img.shields.io/badge/GeovaneF55-100000?style=flat&logo=github&logoColor=white">
-        </a>a
+        </a>
     </b>
     <br/>
     Senior Consultant | Fullstack Developer
