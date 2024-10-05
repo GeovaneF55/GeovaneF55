@@ -156,6 +156,6 @@ I have a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer
 
 <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat&logo=openai&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/GitHub%20Copilot-000?style=flat&logo=githubcopilot&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/GitHub%20Copilot-5AC4F6?style=flat&logo=githubcopilot&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Google%20Gemini-886FBF?style=flat&logo=googlegemini&logoColor=white">
 </div>
