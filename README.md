@@ -36,11 +36,11 @@
 
 ## 🧔🏻 About Me
 
-I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Technician** from CEFET-MG (2013). I’m passionate about science and continuously aim to grow professionally while expanding my knowledge in computing. Originally from **Belo Horizonte, Brazil**, I now reside in **Lisbon, Portugal**.
+I have a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Technician** from CEFET-MG (2013). I’m passionate about science and continuously aim to grow professionally while expanding my knowledge in computing. Originally from **Belo Horizonte, Brazil**, I now reside in **Lisbon, Portugal**.
 
 ## 🚀 Current Projects & Work Experience
 
-- **Laravel, WordPress, Prestashop, Magento and Django Developer** at Aubay Portugal (Client: SIBS) since April 2022.
+- **Laravel, WordPress, Prestashop, Magento, and Django Developer** at Aubay Portugal (Client: SIBS) since April 2022.
 - **Laravel, React, and NodeJS Developer** at Pentagrama Consultoria e Sistemas LTDA (2019–2022).
 - **Laravel Developer** at Codificar Softwares (2017–2018).
 - **PHP Developer** at Teknisa Softwares (2014–2016).
@@ -73,7 +73,7 @@ I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Te
 <!-- https://simpleicons.org/ -->
 <!-- https://custom-icon-badges.demolab.com/ -->
 
-### PHP and it's Frameworks
+### PHP and its Frameworks
 
 <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
@@ -84,7 +84,7 @@ I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Te
     <img align="center" src="https://img.shields.io/badge/Symfony-%23000000.svg?style=flat&logo=symfony&logoColor=white">
 </div>
 
-### Javascript and it's Frameworks
+### Javascript and its Frameworks
 
 <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black">
@@ -95,7 +95,7 @@ I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Te
     <img align="center" src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black">
 </div>
 
-### More Languages and it's Frameworks
+### More Languages and their Frameworks
 
 <div style="display: inline_block">
     <img align="center" src="https://img.shields.io/badge/Python-%233776AB?style=flat&logo=python&logoColor=white">
