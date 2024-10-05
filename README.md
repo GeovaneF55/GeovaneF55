@@ -115,7 +115,7 @@ I have a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer
     <img align="center" src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Sass-000?style=flat&logo=sass&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white">
 </div>
 
 ### Database
@@ -124,10 +124,10 @@ I have a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer
     <img align="center" src="https://img.shields.io/badge/MySQL-%234479A1?style=flat&logo=mysql&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/SQLite-000?style=flat&logo=sqlite&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/PostgreSQL-000?style=flat&logo=postgresql&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/PostgreSQL-21759B?style=flat&logo=postgresql&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat&logo=mongodb&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Firebase-000?style=flat&logo=firebase&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black">
 </div>
 
 ### Operation Systems
