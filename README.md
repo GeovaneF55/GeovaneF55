@@ -111,7 +111,6 @@ I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Te
     <img align="center" src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=flat&logo=bootstrap&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4?style=flat&logo=tailwindcss&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Sass-000?style=flat&logo=sass&logoColor=white">
-    <img align="center" src="https://img.shields.io/badge/Markdown-000?style=flat&logo=markdown&logoColor=white">
 </div>
 
 ### Database
@@ -143,6 +142,7 @@ I'm a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer Te
     <img align="center" src="https://img.shields.io/badge/Docker-%232496ED?style=flat&logo=docker&logoColor=white">
     <img align="center" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+    <img align="center" src="https://img.shields.io/badge/Markdown-000?style=flat&logo=markdown&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Jupyter-%23F37626?style=flat&logo=jupyter&logoColor=white">
     <img align="center" src="https://img.shields.io/badge/Arduino-%2300979D?style=flat&logo=arduino&logoColor=white">
 </div>
