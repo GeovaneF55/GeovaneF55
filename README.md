@@ -45,9 +45,10 @@ I have a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/geovanef55">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=geovanef55&show_icons=true&hide=issues,contribs&count_private=true&theme=tokyonight" />
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanef55&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=pucminas,tcc_twitter&hide=jupyter%20notebook,gherkin,twig,smarty,scss" />
+<div style="display: inline_block">
+    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=geovanef55&show_icons=true&hide=issues,contribs&count_private=true&theme=tokyonight" />
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanef55&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=pucminas,tcc_twitter&hide=jupyter%20notebook,gherkin,twig,smarty,scss" />
+</div>
     
 ## 🛠 My Top Tools and Languages
 <!-- https://shields.io/ -->
