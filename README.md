@@ -43,12 +43,12 @@ I have a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer
   <img alt="github-snake" src="https://github.com/GeovaneF55/GeovaneF55/blob/output/github-snake.svg" />
 </picture>
 
-## 📊 GitHub Stats
+<!--TODO: ## 📊 GitHub Stats
 
 <div style="display: inline_block">
     <img height="170em" src="https://github-readme-stats.vercel.app/api?username=geovanef55&show_icons=true&hide=issues,contribs&count_private=true&theme=tokyonight" />
     <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovanef55&layout=compact&langs_count=8&theme=tokyonight&exclude_repo=pucminas,tcc_twitter&hide=jupyter%20notebook,gherkin,twig,smarty,scss" />
-</div>
+</div>-->
     
 ## 🛠 My Top Tools and Languages
 <!-- https://shields.io/ -->
@@ -76,6 +76,16 @@ I have a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer
     <img src="https://img.shields.io/badge/Vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-%23339933?style=flat&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=react&logoColor=black" />
+</div>
+
+### Mobile Development
+
+<div style="display: inline_block">
+    <img src="https://img.shields.io/badge/Dart-%230175C2?style=flat&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Swift-%23FA7343?style=flat&logo=swift&logoColor=white" />
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" />
 </div>
 
 ### More Languages and their Frameworks
@@ -119,8 +129,6 @@ I have a **Bachelor in Computer Science** from PUC-Minas (2020) and a **Computer
     <img src="https://img.shields.io/badge/Ubuntu-35495E?style=flat&logo=ubuntu&logoColor=white" />
     <img src="https://img.shields.io/badge/Mac%20OS-000000?style=flat&logo=apple&logoColor=white" />
     <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
-    <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
 </div>
 
 ### Other Knowledges
